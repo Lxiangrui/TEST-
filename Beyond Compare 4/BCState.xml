@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TDirCompareSessionDialog Value="660;285;1258;886"/>
+			<TDirLoadErrorDialog Value="687;452;1233;588"/>
+			<TFileFormatManagerDialog Value="534;195;1230;885"/>
+			<THexCompareSessionDialog Value="550;213;1148;814"/>
+			<TImportDialog Value="646;322;1118;757"/>
+			<TProfileBrowseDialog Value="539;114;1381;925"/>
+			<TSessionSaveAsDialog Value="1081;311;1386;547"/>
+			<TSourceControlManagerDialog Value="461;134;1303;945"/>
+			<TTextCompareSessionDialog Value="661;220;1259;820"/>
+			<TViewFrame Value="568;122;1506;906;3"/>
+		</FormPositions>
+	</TBcState>
+	<TDataCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\SVN_Local\E_Drive_SDK\5.Tools\A0P参数映射表_221022.xlsx"/>
+			<_1 Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\A0P参数映射表_221022.xlsx"/>
+			<_2 Value="D:\SVN_Local\Ax_SDK\0.DOC\Ax_IMSeries参数映射表-2019-10-12-(发布给生产的出货版本(10月12号环信100台)).xlsx"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\A0P参数映射表2022-10-11.xlsx"/>
+			<_1 Value="D:\SVN_Local\E_Drive_SDK\5.Tools\A0P参数映射表_221022.xlsx"/>
+		</RightMRUSpecs>
+	</TDataCompareState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\git\Hungary_A5\2.Firmware\APP\ST\Ax-IMSeries-ST-V3.35.191009_1(V3.41)改"/>
+			<_1 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+			<_2 Value="C:\Users\DELL\Desktop\19101201_映射文件"/>
+			<_3 Value="C:\Users\DELL\Desktop\ST\Projects\STM32F0xx_StdPeriph_Templates"/>
+			<_4 Value="C:\Users\DELL\Desktop\ST(1)\Ax-IMSeries-ST-V3.35.191009_1(V3.41)_linsankehu\Projects\STM32F0xx_StdPeriph_Templates"/>
+			<_5 Value="C:\Users\DELL\Desktop\ST(1)\Ax-IMSeries-ST-V3.35.191009_1(V3.41)_linsankehu\Projects\STM32F0xx_StdPeriph_Templates\Src"/>
+			<_6 Value="D:\TEMP_FILE\临时keil\3_16\Projects\STM32F0xx_StdPeriph_Templates"/>
+			<_7 Value="D:\TEMP_FILE\临时keil\3_16\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM"/>
+			<_8 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+		</LeftMRUSpecs>
+		<LogHeight Value="0"/>
+		<RightMRUSpecs>
+			<_0 Value="D:\git\Thailand_A5\2.Firmware\ST"/>
+			<_1 Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件"/>
+			<_2 Value="D:\work\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src"/>
+			<_3 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates"/>
+			<_4 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates\Src"/>
+			<_5 Value="D:\TEMP_FILE\临时keil\3_16_1933\Projects\STM32F0xx_StdPeriph_Templates"/>
+			<_6 Value="D:\TEMP_FILE\临时keil\3_16_1933\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM"/>
+			<_7 Value="C:\Users\DELL\Desktop\19101201_映射文件"/>
+			<_8 Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件"/>
+		</RightMRUSpecs>
+		<ShowToolbar Value="False"/>
+	</TDirCompareState>
+	<TDirMergeState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP - 副本"/>
+		</RightMRUSpecs>
+	</TDirMergeState>
+	<TDirReportState>
+		<Layout Value="layoutSummary"/>
+		<OutputFormat Value="ofHTML"/>
+	</TDirReportState>
+	<TDirSyncState>
+		<LeftMRUSpecs>
+			<_0 Value="C:\Users\T490s\jhd\s_line_project\S2-2201_SDK\2.Firmware\TI\S2-2201_TI"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="C:\Users\T490s\jhd\s_line_project\S2-2201_SDK\2.Firmware\TI\S2-2201_TI_V1.01_20220118_MOTOR2"/>
+		</RightMRUSpecs>
+	</TDirSyncState>
+	<THexCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="C:\Users\DELL\Desktop\UPDATA.SC"/>
+			<_1 Value="C:\Users\DELL\jhd\AC_SDK\6.release\A0P-2101IM_SSV1.32_STV1.31_PV1.0_1\A0P-2101IM_SSV1.32_STV1.31_1.SC"/>
+			<_2 Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\1.32_1.31\testboot.bin"/>
+			<_3 Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\1.32_1.31\testbootd.bin"/>
+			<_4 Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\1.32_1.31\testboot"/>
+			<_5 Value="C:\Users\DELL\Desktop\UPDATA1.SC"/>
+			<_6 Value="C:\Users\DELL\Desktop\UPDATA1_52.SC"/>
+			<_7 Value="C:\Users\Public\Nwt\cache\recv\李祥瑞\A0SE_Project.bin"/>
+			<_8 Value="D:\SVN_Local\Ax_SDK\2.software\A0SE_Project\A0SE\A0SE_Project.bin"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="C:\Users\DELL\jhd\AC_SDK\6.release\A0P-2101IM_SSV1.32_STV1.31_PV1.0_1\A0P-2101IM_SSV1.32_STV1.31_1.SC"/>
+			<_1 Value="C:\Users\DELL\jhd\AC_SDK\1.BootLoader\TI\TI_Bootloader\Debug\TI_Bootloader.bin"/>
+			<_2 Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\1.32_1.31\testbootd.bin"/>
+			<_3 Value="C:\Users\DELL\Desktop\UPDATA.SC"/>
+			<_4 Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\1.32_1.31\TIApp2.bin"/>
+			<_5 Value="C:\Users\Public\Nwt\cache\recv\李祥瑞\tibintest.bin"/>
+			<_6 Value="C:\Users\DELL\jhd\AC_SDK\6.release\A0P-2101IM_SSV1.32_STV1.31_PV1.0_1\BootAppTestParamDownLoad\user_files\images\TIapp.bin"/>
+			<_7 Value="C:\Users\DELL\jhd\AC_SDK\6.release\A0P-2101IM_SSV1.32_STV1.31_PV1.0_1\BootAppTestParamDownLoad\STBin.bin"/>
+			<_8 Value="C:\Users\DELL\jhd\AC_SDK\6.release\A0P-2101IM_SSV1.32_STV1.31_PV1.0_1\BootAppTestParamDownLoad\STMDownload.bat"/>
+		</RightMRUSpecs>
+	</THexCompareState>
+	<THexFindState>
+		<CaseSensitive Value="True"/>
+		<FindItems>
+			<_0 Value="4800"/>
+		</FindItems>
+	</THexFindState>
+	<THomeState>
+		<SessionType Value="TDirCompareSession"/>
+	</THomeState>
+	<TTextCompareState>
+		<HexDetails Value="True"/>
+		<LeftMRUSpecs>
+			<_0 Value="D:\git\Hungary_A5\2.Firmware\APP\ST\Ax-IMSeries-ST-V3.35.191009_1(V3.41)改\Projects\STM32F0xx_StdPeriph_Templates\Src\can_pdo.h"/>
+			<_1 Value="D:\git\Hungary_A5\2.Firmware\APP\ST\Ax-IMSeries-ST-V3.35.191009_1(V3.41)改\Projects\STM32F0xx_StdPeriph_Templates\stm32f0xx_it.c"/>
+			<_2 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\Device_ParamDefine.c"/>
+			<_3 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\Device_ParamDefine.h"/>
+			<_4 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\CanCtrl_ParamDefine.h"/>
+			<_5 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\DataMonitor.c"/>
+			<_6 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\DataMonitor.h"/>
+			<_7 Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\Device_FaultDefine.c"/>
+			<_8 Value="C:\Users\DELL\Desktop\19101201_映射文件\Device_ParamDefine.c"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="D:\git\Thailand_A5\2.Firmware\ST\Projects\STM32F0xx_StdPeriph_Templates\stm32f0xx_it.c"/>
+			<_1 Value="C:\Users\DELL\Desktop\yingshe\18320257_映射文件\Device_ParamDefine.c"/>
+			<_2 Value="C:\Users\DELL\Desktop\yingshe\18320257_映射文件\Device_ParamDefine.h"/>
+			<_3 Value="C:\Users\DELL\Desktop\yingshe\20111801_映射文件\CanCtrl_ParamDefine.h"/>
+			<_4 Value="C:\Users\DELL\Desktop\yingshe\20111801_映射文件\DataMonitor.c"/>
+			<_5 Value="C:\Users\DELL\Desktop\yingshe\20111801_映射文件\DataMonitor.h"/>
+			<_6 Value="C:\Users\DELL\Desktop\yingshe\20111801_映射文件\Device_FaultDefine.c"/>
+			<_7 Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件\Device_FaultDefine.c"/>
+			<_8 Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件\DataMonitor.h"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+	<TTextEditState>
+		<LeftMRUSpecs>
+			<_0 Value="C:\Users\SCreateJH\Desktop\NEW\NEWBOOT_CTRL.bin"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+	</TTextEditState>
+	<TTextFindState>
+		<Advanced Value="True"/>
+		<CurSideOnly Value="False"/>
+		<FindItems>
+			<_0 Value="经济模式电池损耗速度"/>
+			<_1 Value="电池"/>
+			<_2 Value="0x0397"/>
+			<_3 Value="Battery_Type"/>
+			<_4 Value="0x00C9"/>
+			<_5 Value="Mtr2"/>
+			<_6 Value="SSIPD"/>
+			<_7 Value="LightSource_DAConfiguration"/>
+			<_8 Value="LightSource_GPIO_Configuration"/>
+		</FindItems>
+		<ReplaceItems>
+			<_0 Value="Mtr1"/>
+			<_1 Value="m_HistoryDataString"/>
+			<_2 Value="THB"/>
+		</ReplaceItems>
+		<Sides Value="[fsRight]"/>
+	</TTextFindState>
+</BCState>

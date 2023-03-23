@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TDirCompareSession Value="Ax-IMSeries-ST-V3.35.191009_1(V3.41)改 &lt;--> ST">
+						<LastModified Value="2023-03-23 14:14:05"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\git\Hungary_A5\2.Firmware\APP\ST\Ax-IMSeries-ST-V3.35.191009_1(V3.41)改"/>
+							<Right Value="D:\git\Thailand_A5\2.Firmware\ST"/>
+						</Specs>
+						<State>
+							<SortDown Value="True"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 18320257_映射文件">
+						<LastModified Value="2023-03-21 13:42:37"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\work\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+							<Right Value="C:\Users\DELL\Desktop\yingshe\18320257_映射文件"/>
+						</Specs>
+						<State>
+							<SortDown Value="True"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="DataMonitor.c &lt;--> 20111801_映射文件">
+						<LastModified Value="2023-03-20 19:24:25"/>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\DataMonitor.c"/>
+							<Right Value="C:\Users\DELL\Desktop\yingshe\20111801_映射文件"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="DataMonitor.h">
+						<LastModified Value="2023-03-20 19:13:06"/>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\DataMonitor.h"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件\DataMonitor.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="19101201_映射文件 &lt;--> Src">
+						<LastModified Value="2023-03-20 17:14:17"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\19101201_映射文件"/>
+							<Right Value="D:\work\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 18320257_映射文件">
+						<LastModified Value="2023-03-20 17:14:17"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\work\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件"/>
+						</Specs>
+						<State>
+							<SortDown Value="True"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c">
+						<LastModified Value="2023-03-20 17:14:17"/>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\Device_ParamDefine.c"/>
+							<Right Value="C:\Users\DELL\Desktop\19101201_映射文件\Device_ParamDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 18320257_映射文件">
+						<LastModified Value="2023-03-20 11:35:43"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\work_proj\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="STM32F0xx_StdPeriph_Templates">
+						<LastModified Value="2023-03-17 22:12:58"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\ST\Projects\STM32F0xx_StdPeriph_Templates"/>
+							<Right Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c">
+						<LastModified Value="2023-03-17 15:07:02"/>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\Device_ParamDefine.c"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件\Device_ParamDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.h">
+						<LastModified Value="2023-03-17 15:07:02"/>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF\Device_ParamDefine.h"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件\Device_ParamDefine.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="UPDATA.SC &lt;--> linsankehu-A5-Y1.04-SV3.66-PV2.17-20230316.SC">
+						<LastModified Value="2023-03-17 10:25:05"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\UPDATA.SC"/>
+							<Right Value="D:\TEMP_FILE\linsankehu-A5-Y1.04-SV3.66-PV2.17-20230316.SC"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="main.c">
+						<LastModified Value="2023-03-16 19:44:22"/>
+						<Specs>
+							<Left Value="D:\TEMP_FILE\临时keil\3_16\Projects\STM32F0xx_StdPeriph_Templates\main.c"/>
+							<Right Value="D:\TEMP_FILE\临时keil\3_16_1933\Projects\STM32F0xx_StdPeriph_Templates\main.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="stm32f0xx_it.c">
+						<LastModified Value="2023-03-16 19:44:22"/>
+						<Specs>
+							<Left Value="D:\TEMP_FILE\临时keil\3_16\Projects\STM32F0xx_StdPeriph_Templates\stm32f0xx_it.c"/>
+							<Right Value="D:\TEMP_FILE\临时keil\3_16_1933\Projects\STM32F0xx_StdPeriph_Templates\stm32f0xx_it.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Project.uvoptx">
+						<LastModified Value="2023-03-16 19:44:20"/>
+						<Specs>
+							<Left Value="D:\TEMP_FILE\临时keil\3_16\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\Project.uvoptx"/>
+							<Right Value="D:\TEMP_FILE\临时keil\3_16_1933\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\Project.uvoptx"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="STM32F0xx_StdPeriph_Templates">
+						<LastModified Value="2023-03-16 19:44:19"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\TEMP_FILE\临时keil\3_16\Projects\STM32F0xx_StdPeriph_Templates"/>
+							<Right Value="D:\TEMP_FILE\临时keil\3_16_1933\Projects\STM32F0xx_StdPeriph_Templates"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 19101201_映射文件">
+						<LastModified Value="2023-03-16 19:38:01"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+							<Right Value="C:\Users\DELL\Desktop\19101201_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 18320257_映射文件">
+						<LastModified Value="2023-03-16 14:29:36"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\0316_1420\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 18320257_映射文件">
+						<LastModified Value="2023-03-16 14:19:52"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\WORK\Project_Manage\Thailand_A5\Proj_Manage\03_16\Projects\STM32F0xx_StdPeriph_Templates\Src\DCF"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320257_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 18320267_映射文件">
+						<LastModified Value="2023-03-14 14:47:25"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST\DCF"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c">
+						<LastModified Value="2023-03-14 14:47:25"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST\DCF\src\Device_ParamDefine.c"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\Device_ParamDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.h">
+						<LastModified Value="2023-03-14 14:47:25"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST\DCF\inc\Device_ParamDefine.h"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\Device_ParamDefine.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c &lt;--> DCF">
+						<LastModified Value="2023-03-14 10:47:40"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST\DCF\src\Device_ParamDefine.c"/>
+							<Right Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST\DCF"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="A0SE_ST">
+						<LastModified Value="2023-03-13 16:26:52"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST"/>
+							<Right Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST_0313\A0SE_ST"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="A0SE_ST">
+						<LastModified Value="2023-03-13 14:37:53"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\0313_1411\A0SE_ST"/>
+							<Right Value="C:\Users\DELL\Desktop\临时keil\3_13_2\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.h">
+						<LastModified Value="2023-03-13 14:16:26"/>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\Device_ParamDefine.h"/>
+							<Right Value="C:\Users\DELL\Desktop\临时keil\3_13\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST\DCF\inc\Device_ParamDefine.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c">
+						<LastModified Value="2023-03-13 14:12:06"/>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\Device_ParamDefine.c"/>
+							<Right Value="C:\Users\DELL\Desktop\临时keil\3_13\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST\DCF\src\Device_ParamDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="18320267_映射文件 &lt;--> inc">
+						<LastModified Value="2023-03-13 14:12:01"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件"/>
+							<Right Value="C:\Users\DELL\Desktop\临时keil\3_13\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST\DCF\inc"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="DataMonitor.h">
+						<LastModified Value="2023-03-13 11:47:56"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\3_13\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST\DCF\inc\DataMonitor.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="DataMonitor.h">
+						<LastModified Value="2023-03-13 11:47:55"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\3_13\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST\DCF\inc\DataMonitor.h"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\DataMonitor.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="DataMonitor.c">
+						<LastModified Value="2023-03-13 11:47:53"/>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\DataMonitor.c"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\DataMonitor.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="A0SE_ST &lt;--> 18320267_映射文件">
+						<LastModified Value="2023-03-13 11:47:52"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\3_13\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="DataMonitor.h">
+						<LastModified Value="2023-03-13 11:40:24"/>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\DataMonitor.h"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\DataMonitor.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="DataMonitor.c">
+						<LastModified Value="2023-03-13 11:31:47"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\3_13\A0SE_ST_0313\A0SE_ST_0313\A0SE_ST\DCF\src\DataMonitor.c"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\DataMonitor.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="A0SE_ST">
+						<LastModified Value="2023-03-11 15:27:37"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\临时keil\A0SE_ST"/>
+							<Right Value="C:\Users\DELL\Desktop\临时keil\A0SE_ST_0310_afternoon\A0SE_ST"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="inc &lt;--> 18320267_映射文件">
+						<LastModified Value="2023-03-09 21:20:04"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\work\A0P\hang\PRO\A0SE_ST\DCF\inc"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="config_vars_obj.h &lt;--> ConfigVars_obj.h">
+						<LastModified Value="2023-03-09 21:20:04"/>
+						<Specs>
+							<Left Value="D:\work\A0P\hang\2\A0SE_Project\user_common\config_vars_obj.h"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\台式机\11\Release\18320267_映射文件\ConfigVars_obj.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_FaultDefine.h &lt;--> config_vars_obj.h">
+						<LastModified Value="2023-03-09 18:19:12"/>
+						<Specs>
+							<Left Value="D:\work\A0P\hang\PRO\A0SE_ST\DCF\inc\Device_FaultDefine.h"/>
+							<Right Value="D:\work\A0P\hang\2\A0SE_Project\user_common\config_vars_obj.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<THexCompareSession Value="UPDATA.SC &lt;--> A0P-2101IM_SSV1.32_STV1.31_1.SC">
+						<LastModified Value="2023-03-07 12:20:49"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\UPDATA.SC"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\6.release\A0P-2101IM_SSV1.32_STV1.31_PV1.0_1\A0P-2101IM_SSV1.32_STV1.31_1.SC"/>
+						</Specs>
+					</THexCompareSession>
+					<THexCompareSession Value="testboot.bin &lt;--> TI_Bootloader.bin">
+						<LastModified Value="2023-03-06 16:18:37"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\1.32_1.31\testboot.bin"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\1.BootLoader\TI\TI_Bootloader\Debug\TI_Bootloader.bin"/>
+						</Specs>
+					</THexCompareSession>
+					<THexCompareSession Value="UPDATA1.SC &lt;--> UPDATA.SC">
+						<LastModified Value="2023-03-01 20:36:42"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\Desktop\UPDATA1.SC"/>
+							<Right Value="C:\Users\DELL\Desktop\UPDATA.SC"/>
+						</Specs>
+					</THexCompareSession>
+					<THexCompareSession Value="A0SE_Project.bin &lt;--> TIApp2.bin">
+						<LastModified Value="2023-03-01 13:05:49"/>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\李祥瑞\A0SE_Project.bin"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\1.32_1.31\TIApp2.bin"/>
+						</Specs>
+					</THexCompareSession>
+					<THexCompareSession Value="A0SE_Project.bin &lt;--> tibintest.bin">
+						<LastModified Value="2023-02-28 18:03:27"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\Ax_SDK\2.software\A0SE_Project\A0SE\A0SE_Project.bin"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\李祥瑞\tibintest.bin"/>
+						</Specs>
+					</THexCompareSession>
+					<THexCompareSession Value="S2-STG0B1-BOOT.bin &lt;--> STBin.bin">
+						<LastModified Value="2023-02-28 09:09:01"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\1.BootLoader\ST\S2-2011-ST-G0B1-BOOT_230131_1\S2-2011-ST-G0B1-BOOT\MDK-ARM\S2-STG0B1-BOOT.bin"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\6.release\A0P-2101IM_SSV1.32_STV1.31_PV1.0_1\BootAppTestParamDownLoad\STBin.bin"/>
+						</Specs>
+					</THexCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 22181006_映射文件">
+						<LastModified Value="2023-02-27 16:36:01"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\22181006_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="A0SE_Project">
+						<LastModified Value="2023-02-27 16:01:12"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\Ax_SDK\2.software\TI\A0SE_Project"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_Project"/>
+						</Specs>
+					</TDirCompareSession>
+					<THexCompareSession Value="eDrive-2181-SSV96_25_2.SC &lt;--> eDrive-2181-SSV96_25_1.SC">
+						<LastModified Value="2023-02-27 14:05:52"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\6.Release\eDrive-2181-SSV96_25_2.SC"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\6.Release\eDrive-2181-SSV96_25_1.SC"/>
+						</Specs>
+					</THexCompareSession>
+					<TDirCompareSession Value="A0SE_Project">
+						<LastModified Value="2023-02-27 13:14:33"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\2.Firmware\A0SE_Project"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="InterLockManage.c">
+						<LastModified Value="2023-02-27 12:01:28"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_ST\System\src\InterLockManage.c"/>
+							<Right Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST\System\src\InterLockManage.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="SystemInit.c">
+						<LastModified Value="2023-02-27 12:01:26"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_ST\System\src\SystemInit.c"/>
+							<Right Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST\System\src\SystemInit.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="PedalManage.c">
+						<LastModified Value="2023-02-27 12:01:25"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_ST\System\src\PedalManage.c"/>
+							<Right Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST\System\src\PedalManage.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="SchedulerBanlance.c">
+						<LastModified Value="2023-02-27 12:01:25"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_ST\System\src\SchedulerBanlance.c"/>
+							<Right Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST\System\src\SchedulerBanlance.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="MotorTemperature.c">
+						<LastModified Value="2023-02-27 12:01:24"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_ST\System\src\MotorTemperature.c"/>
+							<Right Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST\System\src\MotorTemperature.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="PCBTemperature.c">
+						<LastModified Value="2023-02-27 12:01:24"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_ST\System\src\PCBTemperature.c"/>
+							<Right Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST\System\src\PCBTemperature.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="A0SE_ST">
+						<LastModified Value="2023-02-27 12:01:23"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0P通用版本（添加CAN电池电量参数）\A0P通用版本（添加CAN电池电量参数）\A0SE_ST"/>
+							<Right Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 22181005_映射文件">
+						<LastModified Value="2023-02-26 16:10:33"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\22181005_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<THexCompareSession Value="A0P-2210IM_YF_SSV1.21_STV1.18_221228_3.SC &lt;--> UPDATA.SC">
+						<LastModified Value="2023-02-23 21:21:06"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\6.release\宇峰A0P-2101IM-SV1.21_TV1.18_PV1.0_230103_1\A0P-2210IM_YF_SSV1.21_STV1.18_221228_3.SC"/>
+							<Right Value="C:\Users\DELL\Desktop\UPDATA.SC"/>
+						</Specs>
+					</THexCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c">
+						<LastModified Value="2023-02-23 13:12:57"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0SE_ST_230216\A0SE_ST\DCF\src\Device_ParamDefine.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\18320266_映射文件\Device_ParamDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_FaultDefine.c">
+						<LastModified Value="2023-02-23 13:12:55"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0SE_ST_230216\A0SE_ST\DCF\src\Device_FaultDefine.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\18320266_映射文件\Device_FaultDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="UserDef_Protocol_Vars.h">
+						<LastModified Value="2023-02-23 13:12:54"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\UserDef_Protocol_Vars.h"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\22181005_映射文件\UserDef_Protocol_Vars.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_FaultDefine.h">
+						<LastModified Value="2023-02-23 13:12:53"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\Device_FaultDefine.h"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\22181005_映射文件\Device_FaultDefine.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c">
+						<LastModified Value="2023-02-23 13:12:53"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\Device_ParamDefine.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\22181005_映射文件\Device_ParamDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="SystemInfo_ParamDefine.h">
+						<LastModified Value="2023-02-23 13:12:53"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\SystemInfo_ParamDefine.h"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\22181005_映射文件\SystemInfo_ParamDefine.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_FaultDefine.c">
+						<LastModified Value="2023-02-23 13:12:52"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\Device_FaultDefine.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\22181005_映射文件\Device_FaultDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="src &lt;--> 18320266_映射文件">
+						<LastModified Value="2023-02-23 13:12:46"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0SE_ST_230216\A0SE_ST\DCF\src"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_20230221_4新增位域_对齐优化\ParametDescGen_CS_20230221_4新增位域_对齐优化\18320266_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="src &lt;--> 18320266_映射文件">
+						<LastModified Value="2023-02-21 15:34:41"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0SE_ST_230216\A0SE_ST\DCF\src"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_布尔位域声明对齐优化_20230221\ParametDescGen_CS_布尔位域声明对齐优化_20230221\18320266_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="E_DRIVER_ST_APP - 副本 &lt;--> E_DRIVER_ST_APP">
+						<LastModified Value="2023-02-17 11:01:21"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP - 副本"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="0216 &lt;--> A0SE_ST">
+						<LastModified Value="2023-02-16 21:14:35"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\李祥瑞\0216"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0SE_ST_230215\A0SE_ST"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="A0SE_ST">
+						<LastModified Value="2023-02-16 15:12:09"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\Ax_SDK\2.software\ST\A0SE_ST"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\2.Firmware\ST\app\A0SE_ST"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="A0SE_Project">
+						<LastModified Value="2023-02-13 19:55:07"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0SE_Project_230210\A0SE_Project_230129\A0SE_Project"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\2.Firmware\A0SE_Project"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="A0SE_ST">
+						<LastModified Value="2023-02-13 19:55:07"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\7.share\A0SE_ST_20230210\A0SE_ST"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\2.Firmware\ST\app\A0SE_ST"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="S2-2011-ST-G0B1-BOOT">
+						<LastModified Value="2023-02-07 21:21:08"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\孙磊dell\A0-ST-G0B1-BOOT_230131_1\S2-2011-ST-G0B1-BOOT"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\1.BootLoader\ST\S2-2011-ST-G0B1-BOOT"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDataCompareSession Value="A0P参数映射表_221022.xlsx &lt;--> A0P参数映射表2022-10-11.xlsx">
+						<CodePageOverride>
+							<Left Value="65001"/>
+							<Right Value="65001"/>
+						</CodePageOverride>
+						<Formats>
+							<Left Value="&#2;CSV"/>
+							<Right Value="&#2;CSV"/>
+						</Formats>
+						<LastModified Value="2023-02-07 12:19:32"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\5.Tools\A0P参数映射表_221022.xlsx"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\A0P参数映射表2022-10-11.xlsx"/>
+						</Specs>
+					</TDataCompareSession>
+					<THexCompareSession Value="18320261_Dcf.dcf">
+						<LastModified Value="2023-02-06 09:02:27"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_修改参数结构体字节对齐-20221204\18320261_映射文件\18320261_Dcf.dcf"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_Fix\18320261_映射文件\18320261_Dcf.dcf"/>
+						</Specs>
+					</THexCompareSession>
+					<TDataCompareSession Value="A0P参数映射表_221022.xlsx">
+						<Formats>
+							<Left Value=""/>
+							<Right Value=""/>
+						</Formats>
+						<LastModified Value="2023-02-06 08:55:32"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\A0P参数映射表_221022.xlsx"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\A0P参数映射表_221022.xlsx"/>
+						</Specs>
+					</TDataCompareSession>
+					<TTextCompareSession Value="PoseAnalysisManage.c">
+						<LastModified Value="2023-02-03 14:53:49"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\ApplicationFunc\PoseAnalysisManage.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP - 副本\ApplicationFunc\PoseAnalysisManage.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="DCF_Table.c">
+						<LastModified Value="2023-01-30 19:35:26"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\DCF_Table.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Device_ParamDefine.c">
+						<LastModified Value="2023-01-30 19:35:17"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\Device_ParamDefine.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_修改参数结构体字节对齐-20221204\22181004_映射文件\Device_ParamDefine.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="DCF &lt;--> 22181004_映射文件">
+						<LastModified Value="2023-01-30 19:35:16"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_修改参数结构体字节对齐-20221204\22181004_映射文件"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="workspace_v10 &lt;--> 3.TI_WorkSpace">
+						<LastModified Value="2023-01-30 19:35:12"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="C:\Users\Public\Nwt\cache\recv\孙磊\workspace_v10"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\3.TI_WorkSpace"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="DCF_Table.c &lt;--> 22181004_Dcf.dcf">
+						<LastModified Value="2023-01-29 11:14:20"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF\DCF_Table.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_修改参数结构体字节对齐-20221204\22181004_映射文件\22181004_Dcf.dcf"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirMergeSession Value="E_DRIVER_ST_APP">
+						<LastModified Value="2023-01-12 19:03:57"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP - 副本"/>
+						</Specs>
+					</TDirMergeSession>
+					<TDirCompareSession Value="E_Drive_zy_230103_1">
+						<LastModified Value="2023-01-11 15:45:09"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\7.share\E_Drive_zy_230103_1"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="SelfCheck.c &lt;--> SelfCheckr65.c">
+						<LastModified Value="2023-01-11 09:18:32"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive\VehicleState\SelfCheck.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive\VehicleState\SelfCheckr65.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="config_vars_obj.h &lt;--> ConfigVars_obj.h">
+						<LastModified Value="2023-01-11 08:41:47"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive\BSP\config_vars_obj.h"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_修改参数结构体字节对齐-20221204\22181004_映射文件\ConfigVars_obj.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<THexCompareSession Value="A0S_ST_APP.bin &lt;--> test.bin">
+						<LastModified Value="2023-01-10 19:50:15"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\2.Firmware\ST\app\A0SE_ST\MDK-ARM\A0S_ST_APP.bin"/>
+							<Right Value="C:\Users\DELL\jhd\c_project\hextoint16\hex2int16\test.bin"/>
+						</Specs>
+					</THexCompareSession>
+					<TTextCompareSession Value="FaultManage.c">
+						<LastModified Value="2023-01-10 11:00:11"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\System\FaultManage.c"/>
+							<Right Value="C:\Users\DELL\Desktop\FaultManage.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="FaultManage.c &lt;--> FaultManage.c.r61">
+						<CodePageOverride>
+							<Right Value="1252"/>
+						</CodePageOverride>
+						<LastModified Value="2023-01-10 10:57:29"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\System\FaultManage.c"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\System\FaultManage.c.r61"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="E_DRIVER_ST_APP &lt;--> E_DRIVER_ST_APP - 副本">
+						<LastModified Value="2023-01-09 20:37:03"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP - 副本"/>
+						</Specs>
+					</TDirCompareSession>
+					<THexCompareSession Value="STBin.bin &lt;--> A0S_ST_APP.bin">
+						<LastModified Value="2023-01-09 20:37:03"/>
+						<Specs>
+							<Left Value="C:\Users\DELL\jhd\AC_SDK\5.Tools\binGen\STBin.bin"/>
+							<Right Value="C:\Users\DELL\jhd\AC_SDK\2.Firmware\ST\app\A0SE_ST\MDK-ARM\A0S_ST_APP.bin"/>
+						</Specs>
+					</THexCompareSession>
+					<TDirCompareSession Value="E_Drive_zy_230103_1 &lt;--> E_Drive">
+						<LastModified Value="2023-01-03 10:26:35"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\7.share\E_Drive_zy_230103_1\E_Drive_zy_230103_1"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="22181003_映射文件 &lt;--> DCF">
+						<LastModified Value="2022-12-30 10:50:21"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\5.Tools\ParametDescGen_CS_Fix\22181003_映射文件"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP\DCF"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="foc_ctrl.h">
+						<LastModified Value="2022-12-27 10:35:36"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive\Speed_FOC_Ctrl\foc_ctrl.h"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\曾勇T490\foc_ctrl.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="E_Drive">
+						<LastModified Value="2022-12-27 10:35:34"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\7.share\E_Drive221226\E_Drive"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="ISR.c">
+						<LastModified Value="2022-12-20 11:40:47"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive\ISR.c"/>
+							<Right Value="C:\Users\Public\Nwt\cache\recv\曾勇T490\ISR.c"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="E_DRIVER_ST_APP &lt;--> E_DRIVER_APM_APPV1.01">
+						<LastModified Value="2022-12-14 14:55:51"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_DRIVER_ST_APP"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\7.share\E_DRIVER_APM_APPV1.01_221213\E_DRIVER_APM_APPV1.01"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="SelfCheck.h">
+						<LastModified Value="2022-12-13 11:40:07"/>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\2.Firmware\E_Driver_WorkSpace\E_Drive\VehicleState\SelfCheck.h"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\recent_file\SelfCheck.h"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="E_DRIVER_APM_APPV1.01_221213 &lt;--> E_DRIVER_APM_APPV1.01_RampSpdLimit">
+						<LastModified Value="2022-12-13 10:33:02"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\7.share\E_DRIVER_APM_APPV1.01_221213"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\7.share\E_DRIVER_APM_APPV1.01_RampSpdLimit"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ApplicationFunc">
+						<LastModified Value="2022-11-29 20:46:55"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\7.share\E_DRIVER_APM_APPV1.00_DiffCtrl\E_DRIVER_APM_APPV1.00\ApplicationFunc"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\7.share\E_DRIVER_APM_APPV1.01\E_DRIVER_APM_APPV1.01\ApplicationFunc"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="E_DRIVER_APM_APPV1.00 &lt;--> E_DRIVER_APM_APPV1.01">
+						<LastModified Value="2022-11-29 20:46:55"/>
+						<Rules>
+							<UseContentComparison Value="True"/>
+							<UseTimestampComparison Value="False"/>
+						</Rules>
+						<Specs>
+							<Left Value="D:\SVN_Local\E_Drive_SDK\7.share\E_DRIVER_APM_APPV1.00_DiffCtrl\E_DRIVER_APM_APPV1.00"/>
+							<Right Value="D:\SVN_Local\E_Drive_SDK\7.share\E_DRIVER_APM_APPV1.01\E_DRIVER_APM_APPV1.01"/>
+						</Specs>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TDirCompareSession>
+				<Rules>
+					<UseContentComparison Value="True"/>
+					<UseTimestampComparison Value="False"/>
+				</Rules>
+				<State>
+					<SortDown Value="True"/>
+				</State>
+			</TDirCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>
